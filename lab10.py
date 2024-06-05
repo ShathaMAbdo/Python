@@ -4,7 +4,7 @@ reword = "ORIGIN"
 def remove(input_string, x,n):
     input_string=input_string.replace(x,'',n)
     return input_string
-    
+
 modifytxt=remove(originalTxt,reword,1)
 print(modifytxt)
 
@@ -18,6 +18,7 @@ print(modifytxt)
 
 reword = " "
 modifytxt=remove(modifytxt,reword,len(modifytxt))
+
 print("Text its clean aoutomaticlly")
 print("-----------------------------------------------------------------")
 print(modifytxt)
