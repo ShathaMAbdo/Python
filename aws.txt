@@ -1,0 +1,33 @@
+https://edition.cnn.com/2020/05/01/tech/iloveyou-virus-computer-security-intl-hnk/index.html
+https://www.linkedin.com/company/aws-cloud-women-uk/
+https://mspoweruser.com/how-to-disable-microsofts-built-in-keylogger-with-the-windows-10-spring-creators-update/#:~:text=How%20to%20disable%20Windows%2010%E2%80%99s%20built-in%20keylogger.%20Open,Microsoft%20will%20no%20longer%20be%20taking%20your%20data.
+https://www.privateinternetaccess.com/blog/microsoft-windows-10-keylogger-enabled-default-heres-disable/
+https://www.linuxfromscratch.org/
+https://kano.me/us/store/products/kano-pc
+https://relocate.me/
+https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
+https://aws.amazon.com/certification/certified-cloud-practitioner/
+https://www.examtopics.com/discussions/amazon/view/71560-exam-aws-certified-cloud-practitioner-topic-1-question-258/
+https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/
+https://aws.amazon.com/prometheus/
+https://prometheus.io/docs/introduction/overview/
+In built collections in python
+ 
+list = ['apple',45.0, 'cherry'] 
+        0,      1 ,     2
+duplicates are allowed in lists, can be nested and are mutable/changeable, ordered
+ 
+tuple = ('apple',45.0, 'cherry')
+duplicates are allowed in lists, can be nested and are immutable/not-changeable, ordered
+ 
+Sets = {'apple',45.0, 'cherry'}
+no duplicates allowed, can be nested, mutable but is not ordered
+ 
+dictionary = {'fruit1':'apple', 'weight':45.0, 'fruit2':'cherry'}
+uses {key:value} pairs
+ 
+
+keys are not duplicated, it is ordered and is mutable/changeable
+https://www.mercurial-scm.org/about
+https://www.gnu.org/software/gnu-arch/
+https://docs.aws.amazon.com/cloud9/latest/user-guide/installer.html#installer-download-run
