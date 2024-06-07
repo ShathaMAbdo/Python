@@ -4,12 +4,16 @@
 # The benefits of build automation
 **Improves Quality**
  Build automation assists your QA team in moving faster. That means you can find errors faster and mitigate them to enhance the quality of your product and avoid bad builds.
+
 **Boost Productivity**
  Build automation makes sure faster feedback. This means your software developers improve productivity. 
+
 **Accelerates Delivery**
  Build automation aids you in speeding up delivery. That’s because it removes redundant tasks and guarantees you find problems faster, so you can launch faster.
+
 **Retains a Complete History**
  Build automation maintains a thorough history of files and modifications. That means you can easily track glitches back to their source.
+ 
 **Saves Money and Time** 
 Build automation saves money and time. That is why build automation sets you up for CI/CD, accelerates delivery, enhances productivity, and improves quality. 
 

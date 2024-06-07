@@ -25,9 +25,17 @@ no duplicates allowed, can be nested, mutable but is not ordered
  
 dictionary = {'fruit1':'apple', 'weight':45.0, 'fruit2':'cherry'}
 uses {key:value} pairs
+
+https://www.markdownguide.org/cheat-sheet/
+Python Built-in Functions - GeeksforGeeks
+https://www.geeksforgeeks.org/python-built-in-functions/
+https://www.geeksforgeeks.org/difference-between-update-and-upgrade/
  
 
 keys are not duplicated, it is ordered and is mutable/changeable
 https://www.mercurial-scm.org/about
 https://www.gnu.org/software/gnu-arch/
 https://docs.aws.amazon.com/cloud9/latest/user-guide/installer.html#installer-download-run
+https://www.geeksforgeeks.org/logging-in-python/
+https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+
