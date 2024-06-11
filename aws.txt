@@ -50,3 +50,6 @@ https://apps.apple.com/gb/app/aws-cloud-practitioner-prep/id1636473404//This is 
 https://awsrestart.instructure.com/courses/3004/assignments/406736?module_item_id=1989428
 https://awsrestart.instructure.com/
 https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/
+https://www.w3schools.com/python/python_exercises.asp
+https://www.proprofs.com/quiz-school/story.php?title=linux_287j5
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/7636/cloud-quest
