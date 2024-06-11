@@ -39,3 +39,14 @@ https://docs.aws.amazon.com/cloud9/latest/user-guide/installer.html#installer-do
 https://www.geeksforgeeks.org/logging-in-python/
 https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 
+https://www.w3schools.com/python/python_arrays.asp
+https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html ///exam-
+https://www.examtopics.com/discussions/amazon/view/71560-exam-aws-certified-cloud-practitioner-topic-1-question-258/
+https://explore.skillbuilder.aws/#
+Aws cloud practitioner essentials
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials
+https://explore.skillbuilder.aws/learn/course/14050/exam-prep-official-question-set-aws-certified-cloud-practitioner-clf-c02-english //^ Practice Exam one
+https://apps.apple.com/gb/app/aws-cloud-practitioner-prep/id1636473404//This is the best one of the apps I’ve found for practice
+https://awsrestart.instructure.com/courses/3004/assignments/406736?module_item_id=1989428
+https://awsrestart.instructure.com/
+https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/
